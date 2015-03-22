@@ -4,3 +4,4 @@ bin/*
 .DS_store
 .settings/*
 .settings
+/bin/
